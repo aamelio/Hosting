@@ -1,6 +1,6 @@
 {
-  "criteria":{
+  "criteria":"{
     "criterium_1": "1, 2, 3",
     "criterium_2": "4, 5, 6"
-  }
+  }"
 }
